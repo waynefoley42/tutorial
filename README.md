@@ -5,4 +5,6 @@ This is the update lab 2.
 
 
 Change made in dazzling_feature to provoke conflict.
+Change made now dazzling feature 2
+
 
